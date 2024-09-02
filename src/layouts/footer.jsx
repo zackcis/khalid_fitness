@@ -14,10 +14,8 @@ export const Footer = () => {
                 <div className="lg:mx-20 max-[430px]:mx-10 flex max-[430px]:flex-col max-[430px]:gap-7 justify-around items-center">
                     <div className="flex flex-col max-[430px]:justify-center max-[430px]:items-center gap-5 lg:w-[50%]">
                         <img src={logo} className="p-0 m-0" width={200} alt="" srcset="" />
-                        <p className="text-[#5a5a5a] lg:w-[50%] max-[430px]:text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint,
-                            delectus quo amet inventore tempora, placeat deleniti exercitationem
-                            eius tempora voluptas laboriosam quidem a ducimus. Est ab doloremque
-                            incidunt voluptatibus quia.</p>
+                        <p className="text-[#5a5a5a] lg:w-[50%] max-[430px]:text-center">Join Khalid Mardy on your fitness journey. From personalized training to expert nutrition advice, achieve your goals with the guidance of
+                             a Moroccan Fitness Champion. Let's build a stronger, healthier you together.</p>
 
                         <div className="flex gap-9">
                             <a target="_blank" href="https://www.instagram.com/khalidmardy_fit/" className="p-3 border rounded-full hover:bg-yellow-300 cursor-pointer">

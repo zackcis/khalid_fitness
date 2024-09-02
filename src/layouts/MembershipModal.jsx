@@ -14,14 +14,14 @@ export const MembershipModal = ({ isOpen, onClose }) => {
         <p className="mb-4">Get in touch with us through:</p>
         <div className="flex flex-col gap-4">
           <div className="flex items-center gap-2">
+            <a href="https://wa.me/+212632672685" className="text-lg text-black font-bold flex items-center gap-2" target="_blank" rel="noopener noreferrer">
             <FaWhatsapp size={24} className="text-green-500" />
-            <a href="https://wa.me/+212632672685" className="text-lg text-black font-bold" target="_blank" rel="noopener noreferrer">
               WhatsApp
             </a>
           </div>
           <div className="flex items-center gap-2">
+            <a href="https://instagram.com/khalidmardy_fit/" className="text-lg text-black font-bold flex items-center gap-2" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={24} className="text-pink-500" />
-            <a href="https://instagram.com/khalidmardy_fit/" className="text-lg text-black font-bold" target="_blank" rel="noopener noreferrer">
               Instagram
             </a>
           </div>

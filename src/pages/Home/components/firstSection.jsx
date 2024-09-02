@@ -1,7 +1,7 @@
 
 import { useContext, useState } from 'react';
 import { MyContext } from '../../../utils/contextProvider';
-import hero from '../../../assets/img/hero-hero.png'
+import hero from '../../../assets/img/file.png'
 import { FaLongArrowAltRight } from "react-icons/fa";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { MembershipModal } from "../../../layouts/MembershipModal";

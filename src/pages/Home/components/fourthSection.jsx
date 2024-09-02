@@ -38,7 +38,7 @@ export const FourthSection = () => {
                                     <img src={leg} width={50} alt="Leg Day" />
                                 </div>
                                 <p className="text-white font-bold text-2xl">Leg day</p>
-                                <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                <p className="w-[80%] text-[#919191]">Building power and stability through squats</p>
                                 <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                     BOOK NOW
                                 </button>
@@ -56,7 +56,7 @@ export const FourthSection = () => {
                                     <img src={shoulders} width={50} alt="Shoulders Day" />
                                 </div>
                                 <p className="text-white font-bold text-2xl">Shoulders day</p>
-                                <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                <p className="w-[80%] text-[#919191]">Enhancing shoulder definition and upper strength.</p>
                                 <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                     BOOK NOW
                                 </button>
@@ -74,7 +74,7 @@ export const FourthSection = () => {
                                     <img src={chest} width={50} alt="Chest Day" />
                                 </div>
                                 <p className="text-white font-bold text-2xl">Chest day</p>
-                                <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                <p className="w-[80%] text-[#919191]">Strengthening the chest with heavy presses</p>
                                 <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                     BOOK NOW
                                 </button>
@@ -92,7 +92,7 @@ export const FourthSection = () => {
                                     <img src={back} width={50} alt="Back Day" />
                                 </div>
                                 <p className="text-white font-bold text-2xl">Back day</p>
-                                <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                <p className="w-[80%] text-[#919191]">Developing a strong, wide back foundation</p>
                                 <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                     BOOK NOW
                                 </button>
@@ -119,7 +119,7 @@ export const FourthSection = () => {
                                             <img src={leg} width={50} alt="Leg Day" />
                                         </div>
                                         <p className="text-white font-bold text-2xl">Leg day</p>
-                                        <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                        <p className="w-[80%] text-[#919191]">aBuilding power and stability through squats</p>
                                         <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                             BOOK NOW
                                         </button>
@@ -137,7 +137,7 @@ export const FourthSection = () => {
                                             <img src={shoulders} width={50} alt="Shoulders Day" />
                                         </div>
                                         <p className="text-white font-bold text-2xl">Shoulders day</p>
-                                        <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                        <p className="w-[80%] text-[#919191]">Enhancing shoulder definition and upper strength.</p>
                                         <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                             BOOK NOW
                                         </button>
@@ -155,7 +155,7 @@ export const FourthSection = () => {
                                             <img src={chest} width={50} alt="Chest Day" />
                                         </div>
                                         <p className="text-white font-bold text-2xl">Chest day</p>
-                                        <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                        <p className="w-[80%] text-[#919191]">Strengthening the chest with heavy presses</p>
                                         <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                             BOOK NOW
                                         </button>
@@ -173,7 +173,7 @@ export const FourthSection = () => {
                                             <img src={back} width={50} alt="Back Day" />
                                         </div>
                                         <p className="text-white font-bold text-2xl">Back day</p>
-                                        <p className="w-[80%] text-[#919191]">adipisicing elit. Assumenda aspernatur obcaecati eligendi.</p>
+                                        <p className="w-[80%] text-[#919191]">Developing a strong, wide back foundation</p>
                                         <button onClick={toggleModal} className="w-[150px] bg-yellow-300 py-2 text-black font-bold hover:bg-yellow-600">
                                             BOOK NOW
                                         </button>
