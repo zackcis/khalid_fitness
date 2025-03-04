@@ -20,7 +20,7 @@ export const Header = () => {
   return (
     <div className="bg-black">
       <div className="flex justify-between items-center p-4 mx-4 md:mx-24 h-20">
-        <img onClick={()=>screenTop} className="cursor-pointer" src={logo} width={150} alt="Logo" />
+        <img  className="cursor-pointer" src={logo} width={150} alt="Logo" />
         
         <div className="md:hidden">
           <button onClick={toggleMenu} className="text-white focus:outline-none">
