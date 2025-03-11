@@ -69,12 +69,12 @@ export const EighthSection = () => {
           slidesPerView={1.5} // Default for smallest screens
           centeredSlides={false}
           breakpoints={{
-            320: { slidesPerView: 1.5, spaceBetween: 8 },
-            480: { slidesPerView: 2, spaceBetween: 10 },
-            640: { slidesPerView: 2.5, spaceBetween: 15 },
-            768: { slidesPerView: 3, spaceBetween: 20 },
-            1024: { slidesPerView: 4, spaceBetween: 25 },
-            1280: { slidesPerView: 5, spaceBetween: 30 },
+            320: { slidesPerView: 1.5, spaceBetween: 2 },
+            480: { slidesPerView: 2, spaceBetween: 1 },
+            640: { slidesPerView: 2.5, spaceBetween: 1 },
+            768: { slidesPerView: 3, spaceBetween: 1 },
+            1024: { slidesPerView: 4, spaceBetween: 1 },
+            1280: { slidesPerView: 5, spaceBetween: 1 },
           }}
           autoplay={{
             delay: 0,
@@ -91,7 +91,7 @@ export const EighthSection = () => {
           {carousel.concat(carousel).map((element, index) => (
             <SwiperSlide 
               key={index} 
-              className="flex justify-center items-center"
+              className="flex justify-center items-center  "
             >
               <div className={`
                 relative rounded-lg overflow-hidden

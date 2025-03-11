@@ -35,7 +35,7 @@ export const ThirdSection = ()=>{
                     <p className="w-[90%] text-[#919191] ">
                     With over 14 years of experience in athletics and multiple prestigious titles, including the 2024 Moroccan Fitness Champion, Khalid Mardy is dedicated to providing top-notch fitness coaching in Casablanca. His expertise in sports training techniques and detailed progress monitoring helps clients reach their peak performance, whether they train in-person or remotely.                    </p>
                     
-                    <button onClick={toggleModal}  className='w-[200px] bg-yellow-300 py-3 text-black font-bold hover:bg-yellow-600'>join with us</button>
+                    <button onClick={toggleModal}  className='w-[200px] bg-yellow-300 py-3 my-4 text-black font-bold hover:bg-yellow-600'>join with us</button>
                     <MembershipModal isOpen={isModalOpen} onClose={toggleModal} />
                     </div>
                 </div>

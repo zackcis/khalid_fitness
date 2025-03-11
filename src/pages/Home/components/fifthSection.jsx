@@ -4,7 +4,7 @@ export const FifthSection = () => {
     return (
         <>
 
-            <div className="bg-[#101010] pt-48 lg:p-10 max-[430px]:p-5 max-[430px]:pt-48  flex max-[430px]:flex-col max-[430px]:gap-4  lg:items-center justify-around">
+            <div className="bg-[#101010] lg:pt-52 pt-48 lg:p-10 max-[430px]:p-5 max-[430px]:pt-48  flex max-[430px]:flex-col max-[430px]:gap-4  lg:items-center justify-around">
                 <div className="flex flex-col py-5">
                     <p className="text-yellow-300">Get A FREE CALL</p>
                     <p className="text-white text-5xl font-bold">GET A 1 FREE CALL ANYTIME.</p>

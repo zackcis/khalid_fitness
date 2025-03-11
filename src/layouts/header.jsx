@@ -18,8 +18,8 @@ export const Header = () => {
   };
 
   return (
-    <div className="bg-black">
-      <div className="flex justify-between items-center p-4 mx-4 md:mx-24 h-20">
+    <div className="bg-black ">
+      <div className="flex justify-between items-center p-4 mx-4 lg:mx-24 h-20">
         <img  className="cursor-pointer" src={logo} width={200} alt="Logo" />
         
         <div className="md:hidden">
