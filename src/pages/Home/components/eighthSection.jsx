@@ -52,7 +52,7 @@ export const EighthSection = () => {
       {/* Instagram Section */}
       <p className="
         flex font-bold items-center justify-center 
-        gap-2 sm:gap-3 md:gap-4 
+          
         px-4 sm:px-6 md:px-10 
         py-6 sm:py-8 md:py-10 
         text-[#5a5a5a] text-center
